@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #222;
+    color: #00ffcc;
+    font-family: monospace;
+}
+
+
+#clock {
+    border: 1vh solid #00ffcc;
+    font-size: 50px;
+    font-weight: bold;
+}
+.index1div {
+    text-align: center;
+    margin-top: 20px;
+}
